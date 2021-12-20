@@ -1,17 +1,38 @@
 ### Hi there 👋
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+
+<strong>Welcome to my GitHub profile.</strong>
+</pre>
+
+
+<br>
 
 - 🌱 I’m currently learning Python,Shell and Java; 
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzyws739307453&show_icons=true&theme=vue)
+
+
+<img src="https://imgur.com/rilHVxA.png"/>
 
 <!--
 **lzyws739307453/lzyws739307453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
