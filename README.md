@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+
+
+
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -17,20 +20,17 @@
 <strong>Welcome to my GitHub profile.</strong>
 </pre>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<br>
+<br><br>
 
-- 🌱 I’m currently learning Python,Shell and Java; 
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently learning Python,Shell and Java.
+- 🤔 I’m looking for help with Design Pattern 😭.
+- 💬 Ask me about anything, I am happy to help.
 
-<br>
-
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzyws739307453&show_icons=true&theme=vue)
-
 
 <img src="https://imgur.com/rilHVxA.png"/>
 
