@@ -20,6 +20,8 @@
 <strong>Welcome to my GitHub profile.</strong>
 </pre>
 
+![](https://raw.githubusercontent.com/lzyws739307453/lzyws739307453/output/github-contribution-grid-snake.svg)
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <br><br>
