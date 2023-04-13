@@ -20,7 +20,7 @@
 <strong>Welcome to my GitHub profile.</strong>
 </pre>
 
-![](https://raw.githubusercontent.com/lzyws739307453/lzyws739307453/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/eliaukdot/eliaukdot/output/github-contribution-grid-snake.svg)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -32,12 +32,12 @@
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzyws739307453&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliaukdot&show_icons=true&theme=vue)
 
 <img src="https://imgur.com/rilHVxA.png"/>
 
 <!--
-**lzyws739307453/lzyws739307453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eliaukdot/eliaukdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
